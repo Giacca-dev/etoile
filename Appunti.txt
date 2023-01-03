@@ -1,0 +1,15 @@
+Appunti:
+
+
+##############################################################################################################################
+Per gestire le ancore(collegamenti interni alla pagina) andare a sfruttare # con il riferimento all'id dell'elemento
+
+esempio:
+    <a href="#gnoi"> bona </a>
+
+    |
+    |
+
+    <h1 id="gnoi"> arrivo del bona </h1>
+
+###############################################################################################################################
