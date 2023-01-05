@@ -20,8 +20,8 @@ div{
 
 #btn-back-to-top {
   position: fixed;
-  bottom: 20px;
-  right: 20px;
+  bottom: 5%;
+  right: 5%;
   display: none;
 }
 
