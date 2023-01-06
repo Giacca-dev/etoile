@@ -4402,7 +4402,7 @@ textarea.form-control-lg {
   --bs-accordion-btn-focus-box-shadow: 0 0 0 0.25rem rgba(223, 194, 150, 1);
   --bs-accordion-body-padding-x: 1.25rem;
   --bs-accordion-body-padding-y: 1rem;
-  --bs-accordion-active-color: #dfc296;
+  --bs-accordion-active-color: #000;
   --bs-accordion-active-bg: white;
 }
 
