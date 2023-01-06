@@ -1,10 +1,12 @@
 body{
-  
+
 }
 
 header{
 backgroud-color: white !important;
 }
+
+@import url('https://fonts.cdnfonts.com/css/bright-sunshine');
 
 footer{
 backgroud-color: white !important;
