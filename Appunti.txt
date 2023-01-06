@@ -13,3 +13,10 @@ esempio:
     <h1 id="gnoi"> arrivo del bona </h1>
 
 ###############################################################################################################################
+Cose da fare:
+  -rifare carousel homepage
+  -gestire allineamento pulsanti
+  -inserire contenuti in giro pizza e nostro personale
+  
+  -aggiungere recensioni(op.)
+  -gestire nav menu(op.)
